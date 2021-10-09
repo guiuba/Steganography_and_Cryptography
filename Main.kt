@@ -1,4 +1,4 @@
-<
+
 var exit = false
 fun main() {
     while (!exit) {
@@ -151,4 +151,4 @@ fun showMessageInImage() {
 
 fun getLSB(colorValue: Int): Int {
     return colorValue % 2
-}>
+}
