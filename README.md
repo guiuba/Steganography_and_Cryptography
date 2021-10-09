@@ -1,12 +1,13 @@
 # Steganography_and_Cryptography
 This program asks for a message and a password. Then encrypts and conceals the message in an image.  It shows back the message, if the password is correct : )
-<import java.awt.Color
+import java.awt.Color
 import java.awt.image.BufferedImage
 import java.io.File
 import javax.imageio.IIOException
 import javax.imageio.ImageIO
 import kotlin.experimental.xor
 
+<
 var exit = false
 fun main() {
     while (!exit) {
